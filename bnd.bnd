@@ -1,0 +1,4 @@
+Bundle-Name: api-training
+Bundle-SymbolicName: api.training
+Bundle-Version: 1.0.0
+Export-Package: api.training.constants
